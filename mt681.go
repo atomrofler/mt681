@@ -1,4 +1,4 @@
-package powermetermt681
+package mt681
 
 import (
 	"encoding/hex"
