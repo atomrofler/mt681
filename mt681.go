@@ -34,6 +34,7 @@ var serialPortOptions serial.OpenOptions = serial.OpenOptions{
 // # Stromverbrauch P1     77070100 240700	FF	0101621B520055          000000BC                01
 // # Stromverbrauch P2     77070100 380700	FF	0101621B520055          000000A8                01
 // # Stromverbrauch P3     77070100 4C0700	FF	0101621B520055          000000B9                01
+// test
 
 type SmlDescription struct {
 	id          string
